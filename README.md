@@ -1,0 +1,31 @@
+# excursion
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Excursion</title>
+    <link href="./resources/style.css" type="text/css" rel="stylesheet"/>
+  </head>
+  <body>
+
+
+    <h1>Discover hidden places in the world around you</h1>
+      <div class="video">
+      <p>Download Excursion (Coming Soon!)</p>
+      <video src="./resources/excursion.mp4">video not supported</video>
+    </div>
+
+    <div class="guide"><h2>Your personal travel guide</h2></div>
+
+      <div class="plus"><p>Excursion remembers places you like, and recommends new points of interests around you.</p></div>
+      <p><img src="./resources/camp.jpg"/></p>
+      <p><img src="./resources/phone.jpg"/></p>
+
+    <div class ="guide"><h2>Coming Soon for iPhone and Android</h2></div>
+
+    <div class="video"><p>Download Excursion (Coming Soon!)</p></div>
+
+    <div class="excursion"><h3>Excursion</h3></div>
+
+  </body>
+</html>
